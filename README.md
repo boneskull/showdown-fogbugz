@@ -1,4 +1,4 @@
-* showdown-fogbugz
+# showdown-fogbugz
 
 [Showdown](https://github.com/coreyti/showdown) extension for outputting code blocks in a format FogBugz understands.
 
