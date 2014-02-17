@@ -2,7 +2,7 @@
 
 [Showdown](https://github.com/coreyti/showdown) extension for outputting code blocks in a format FogBugz understands.
 
-** Usage
+## Usage
 
 Include scripts; include Showdown first.
 
@@ -18,14 +18,14 @@ var converter = new Showdown.converter({extensions: ['fogbugz']}),
 
 The value of `html` will be very ugly and it's not worth displaying here, but what it does is tells FogBugz/Kiln to syntax-highlight and line-number the code block when displaying the text you just entered.
 
-** Wait, FogBugz supports Markdown?
+## Wait, FogBugz supports Markdown?
 
 [Not out of the box](http://boneskull.github.io/bugmonkey-markdown/).
 
-** License
+## License
 
 MIT
 
-** Author
+## Author
 
 [Christopher Hiller](http://boneskull.github.io/)
