@@ -1,0 +1,23 @@
+{
+  "name": "showdown-fogbugz",
+  "version": "1.0.0",
+  "homepage": "https://github.com/boneskull/showdown-fogbugz",
+  "authors": [
+    "Christopher Hiller <chiller@badwing.com>"
+  ],
+  "description": "Showdown extension for outputting code blocks in a format FogBugz understands",
+  "main": "fogbugz.js",
+  "keywords": [
+    "fogbugz",
+    "showdown",
+    "markdown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
